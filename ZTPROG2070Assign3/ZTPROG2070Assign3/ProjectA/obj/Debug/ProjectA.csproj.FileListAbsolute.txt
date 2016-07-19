@@ -1,0 +1,12 @@
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Jane\Desktop\2070\ZTPROG2070Assign3\ZTPROG2070Assign3\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Jane\Desktop\2070\ZTPROG2070Assign3\ZTPROG2070Assign3\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Jane\Desktop\2070\ZTPROG2070Assign3\ZTPROG2070Assign3\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Jane\Desktop\2070\ZTPROG2070Assign3\ZTPROG2070Assign3\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Jane\Desktop\2070\ZTPROG2070Assign3\ZTPROG2070Assign3\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Jane\Desktop\2070\ZTPROG2070Assign3\ZTPROG2070Assign3\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache

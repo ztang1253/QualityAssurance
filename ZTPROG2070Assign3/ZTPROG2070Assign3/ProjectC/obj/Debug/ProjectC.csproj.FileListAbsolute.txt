@@ -1,0 +1,6 @@
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectC\bin\Debug\ProjectC.exe.config
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectC\bin\Debug\ProjectC.exe
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectC\bin\Debug\ProjectC.pdb
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectC\obj\Debug\ProjectC.csprojResolveAssemblyReference.cache
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectC\obj\Debug\ProjectC.exe
+C:\Users\Jane\Desktop\ZTPROG2070Assign3\ProjectC\obj\Debug\ProjectC.pdb
