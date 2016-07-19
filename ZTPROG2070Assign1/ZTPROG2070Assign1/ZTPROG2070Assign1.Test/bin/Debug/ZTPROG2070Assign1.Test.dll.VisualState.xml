@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1011]C:\Users\Jane\Desktop\download\ZTPROG2070Assign1\ZTPROG2070Assign1\ZTPROG2070Assign1.Test\bin\Debug\ZTPROG2070Assign1.Test.dll</TopNode>
+  <SelectedNode>[0-1011]C:\Users\Jane\Desktop\download\ZTPROG2070Assign1\ZTPROG2070Assign1\ZTPROG2070Assign1.Test\bin\Debug\ZTPROG2070Assign1.Test.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1011]C:\Users\Jane\Desktop\download\ZTPROG2070Assign1\ZTPROG2070Assign1\ZTPROG2070Assign1.Test\bin\Debug\ZTPROG2070Assign1.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1012]ZTPROG2070Assign1" Expanded="true" />
+    <Node UniqueName="[0-1013]ZTPROG2070Assign1.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]ZTPROG2070Assign1.Test.CircleTest" Expanded="true" />
+  </Nodes>
+</VisualState>
