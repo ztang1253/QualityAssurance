@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Jane\Desktop\2070\ZTPROG2070Assign2\ZTPROG2070Assign2\ZTPROG2070Assign2.Test\bin\Debug\ZTPROG2070Assign2.Test.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-07-06" time="15:03:08">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8662" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="JANE-PC" user="Jane" user-domain="JANE-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Jane\Desktop\2070\ZTPROG2070Assign2\ZTPROG2070Assign2\ZTPROG2070Assign2.Test\bin\Debug\ZTPROG2070Assign2.Test.dll" executed="True" result="Success" success="True" time="0.187" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ZTPROG2070Assign2" executed="True" result="Success" success="True" time="0.169" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.168" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TriangleFinderTest" executed="True" result="Success" success="True" time="0.166" asserts="0">
+                <results>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputIntegersLessThan0_ReturnStringShouldBeNotTriangle" executed="True" result="Success" success="True" time="0.073" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputOneEdgeAs0_ReturnStringShouldBeNotTriangle" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputThreeSameNumbers_ReturnStringShouldBeEquilateral" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputTwoDifferentNumbersSumEqualsThirdNumber_ReturnStringShouldBeNotTriangle" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputTwoDifferentNumbersSumLargerThanThirdNumber_ReturnStringShouldBeScalene" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputTwoDifferentNumbersSumLessThanThirdNumber_ReturnStringShouldBeNotTriangle" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputTwoSameNumbersSumLargerThanThirdNumber_ReturnStringShouldBeIsosceles" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                  <test-case name="ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputTwoSameNumbersSumLessThanThirdNumber_ReturnStringShouldBeNotTriangle" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\Users\Jane\Desktop\2070\ZTPROG2070Assign2\ZTPROG2070Assign2\ZTPROG2070Assign2.Test\bin\Debug\ZTPROG2070Assign2.Test.dll</TopNode>
+  <SelectedNode>[0-1001]ZTPROG2070Assign2.Test.TriangleFinderTest.Analyze_InputIntegersLessThan0_ReturnStringShouldBeNotTriangle</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Users\Jane\Desktop\2070\ZTPROG2070Assign2\ZTPROG2070Assign2\ZTPROG2070Assign2.Test\bin\Debug\ZTPROG2070Assign2.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]ZTPROG2070Assign2" Expanded="true" />
+    <Node UniqueName="[0-1011]ZTPROG2070Assign2.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]ZTPROG2070Assign2.Test.TriangleFinderTest" Expanded="true" />
+  </Nodes>
+</VisualState>
